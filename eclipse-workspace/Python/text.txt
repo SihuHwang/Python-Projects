@@ -1,0 +1,1071 @@
+kpjklphjkSearch Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms JBM 프로그래밍, GUI 파이썬, Pyside2, Visual python 
+본문 바로가기 
+팝업레이어 알림 팝업레이어 알림이 없습니다. 
+￼ 
+회원가입 
+로그인 
+사이트 내 전체검색 검색어 필수 검색 
+메인메뉴 
+전체메뉴열기 
+개발도구설치 
+파이썬 기초 
+파이썬 팁 
+Pyside2 
+예제프로그램 
+커뮤니티 
+전체메뉴 
+개발도구설치 
+파이썬 기초 
+파이썬 팁 
+Pyside2 
+예제프로그램 
+커뮤니티 닫기 
+회원로그인 
+회원아이디필수 패스워드필수 로그인 
+자동로그인 
+회원가입 계정찾기 
+소셜계정으로 로그인 
+페이스북 로그인 구글 로그인 네이버 로그인 카카오톡 로그인 
+최신글 
+파이썬 기초 
+￼ 0. 이클립스로 파이썬 실습하기 H인기글 
+작성자관리자 
+05-02 
+1. 기본 문법 H인기글 
+작성자관리자 
+05-02 
+2. 변수와 자료형 H인기글 
+작성자관리자 
+05-02 
+￼ 2-1. Numbers (숫자형) H인기글 
+작성자관리자 
+05-02 
+￼ 2-2. Strings (문자형) H인기글 
+작성자관리자 
+05-02 
+￼ 2-3. List (리스트) H인기글 
+작성자관리자 
+05-02 
+￼ 2-4. Tuples (튜플) H인기글 
+작성자관리자 
+05-02 
+￼ 2-5. Dictionary (딕셔너리) H인기글 
+작성자관리자 
+05-02 파이썬 기초더보기 
+파이썬 팁 
+￼ 두 개의 점과 점 사이의 거리 구하기 H인기글 
+작성자관리자 
+05-28 
+현재 시간과 지난 시간 표시하기 time, datetime, el… H인기글 
+작성자관리자 
+05-28 
+함수(function), 메서드(method), 매개변수(para… H인기글 
+작성자관리자 
+05-25 
+키보드 키의 이름 : Key simbol of GUI for Py… H인기글 
+작성자관리자 
+05-09 
+Escape 문자 H인기글 
+작성자관리자 
+05-07 
+데이터 타입 변경 - Data Type Conversion H인기글 
+작성자관리자 
+05-02 
+특수 기호 영문 이름 H인기글 
+작성자관리자 
+05-02 
+파일 디렉토리 다루기 H인기글 
+작성자관리자 
+05-02 파이썬 팁더보기 
+Pyside2 - GUI for Python 
+￼ Qt Designer로 UI 파일 생성 H인기글 
+작성자관리자 
+05-02 
+파이썬 + UI 파일 연동 H인기글 
+작성자관리자 
+05-02 
+￼ GUI 파이썬 프로그래밍 실습 H인기글 
+작성자관리자 
+05-03 
+￼ 이벤트를 통한 객체 제어 H인기글 
+작성자관리자 
+05-28 
+￼ QPushButton, QLineEdit, QLabel - 위젯 … H인기글 
+작성자관리자 
+05-28 
+￼ QTableWidget H인기글 
+작성자관리자 
+06-11 
+￼ QTableWidget 과 Database 연동 H인기글 
+작성자관리자 
+06-13 Pyside2 - GUI for Python더보기 
+파이썬-이클립스 설치 
+￼ 0. 파이썬 개발 도구 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 1. Python 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 2. JAVA 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 3. 이클립스 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 4. Pydev 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 5. PySide2 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 6. Qt Designer 설치 H인기글 
+작성자관리자 
+05-01 
+￼ 7. 이클립스 설정 ( UTF-8, Font 등 ) H인기글 
+작성자관리자 
+05-01 파이썬-이클립스 설치더보기 
+Turtle 모듈로 게임 만들기 
+￼ Turtle Game 1 - Turtle 모듈 사용하기 H인기글 
+작성자관리자 
+06-18 
+￼ Turtle Game 2 - Turtle 움직임 제어하기 H인기글 
+작성자관리자 
+06-19 
+￼ Turtle Game 3 - 울타리 만들기 H인기글 
+작성자관리자 
+06-19 
+￼ Turtle Game 4 - 울타리 안에서 못 벗어나게 하기 H인기글 
+작성자관리자 
+06-19 
+￼ Turtle Game 5 - 벌레 생성 H인기글 
+작성자관리자 
+06-21 
+￼ Turtle Game 6 - 벌레 잡아먹기 H인기글 
+작성자관리자 
+06-21 
+￼ Turtle Game 7 - 벌레를 먹을때마다 점수 올리기 H인기글 
+작성자관리자 
+06-21 
+￼ Turtle Game 8 - 다양한 액션 추가하기 H인기글 
+작성자관리자 
+06-21 Turtle 모듈로 게임 만들기더보기 
+자유게시판 
+기분 좋은 날이네요. H인기글 
+작성자관리자 
+06-30 자유게시판더보기 
+질문답변 
+게시물이 없습니다. 질문답변더보기 
+사이트소개 개인정보처리방침 서비스이용약관 모바일보기 
+사이트 언어 선택 English 한국어 日本語 简体中文 
+￼ 
+Copyright © JBMPA.com All rights reserved. 상단 Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms   
+Your browser is not supported. Please upgrade your browser to one of our supported browsers. You can try viewing the page, but expect functionality to be broken. 
+￼ 
+Learn Teach Projects Stats Help Us About 
+Create   
+￼ 
+Sprite Lab ￼ 
+Artist ￼ 
+App Lab ￼ 
+Game Lab ￼ 
+Dance Party 
+View all projects... 
+Sign in 
+Report a problem Help and support 
+Course Catalog 
+Projects 
+Report a problem 
+Help and support 
+Learn 
+Teach 
+Educator Overview 
+Elementary School 
+Middle School 
+High School 
+Hour of Code 
+Partner with Us 
+Beyond Code.org 
+Inspire a Student 
+Online Community 
+Tools and Videos 
+Stats 
+Help Us 
+About 
+About Us 
+Leadership 
+Donors 
+Partners 
+Full Team 
+Newsroom 
+Evaluation 
+Jobs 
+Contact Us 
+FAQs 
+What will you create? 
+Start learning 
+￼ Watch the video 
+
+Every student in every school should have the opportunity to learn computer science
+40%
+of U.S. students have accounts on Code.org 
+15M
+of our students are young women 
+52M
+projects created on Code.org 
+1M
+teachers use Code.org 
+49
+U.S. states (+ D.C.) now support computer science 
+Students 
+Explore our courses 
+Try Code Studio 
+Find a local class 
+Other online courses 
+Educators 
+Teach your students 
+Elementary school 
+Middle school 
+High school 
+Hour of Code 
+Anybody can learn. Start today 
+About the Hour of Code 
+Host an Hour of Code 
+825,220,891 served 
+Get involved 
+Support diversity in computing 
+See the stats 
+Bring CS to your school 
+T-shirts, hats, & more 
+Over 52 million Code.org projects created 
+￼ ￼ 
+× Close 
+￼ 
+Share on Facebook Share on Twitter 
+￼ 
+Privacy Policy 
+    |    About 
+    |    Partners 
+    |    Blog 
+    |    Donate 
+    |    Store 
+    |    Support 
+    |    Terms © Code.org, 2019. Code.org®, the CODE logo and Hour of Code® are trademarks of Code.org. 
+Powered by Amazon Web Services 
+العربية Azərbaycan dili български Bosanski Català Čeština Dansk Deutsch Ελληνικά English Español (España) Español (LATAM) Eesti Euskara فارسی Suomi Français Gaeilge Galego עברית Hrvatski Magyar Հայերեն Bahasa Indonesia Íslenska Italiano 日本語 ქართული Қазақша ភាសាខ្មែរ 한국어 Кыргызча Lietuvių Latviešu Māori (NZ) ဗမာစာ Nederlands Norsk (Nynorsk) Norsk (Bokmål) Polski Português (Brasil) Português (Portugal) Română Pусский සිංහල Slovenčina Slovenščina Shqip Cрпски Svenska ภาษาไทย Türkçe Українська Tiếng Việt 简体字 繁體字 
+            ￼ 
+Privacy Policy 
+About 
+Partners 
+Blog 
+Donate 
+Store 
+Support 
+Terms 
+Code.org 
+العربية Azərbaycan dili български Bosanski Català Čeština Dansk Deutsch Ελληνικά English Español (España) Español (LATAM) Eesti Euskara فارسی Suomi Français Gaeilge Galego עברית Hrvatski Magyar Հայերեն Bahasa Indonesia Íslenska Italiano 日本語 ქართული Қазақша ភាសាខ្មែរ 한국어 Кыргызча Lietuvių Latviešu Māori (NZ) ဗမာစာ Nederlands Norsk (Nynorsk) Norsk (Bokmål) Polski Português (Brasil) Português (Portugal) Română Pусский සිංහල Slovenčina Slovenščina Shqip Cрпски Svenska ภาษาไทย Türkçe Українська Tiếng Việt 简体字 繁體字 
+            ￼ 
+© Code.org, 2019. Code.org®, the CODE logo and Hour of Code® are trademarks of Code.org. 
+Powered by Amazon Web Services 
+× Close ￼ 
+Please select your language 
+العربية Azərbaycan dili български Bosanski Català Čeština Dansk Deutsch Ελληνικά English Español (España) Español (LATAM) Eesti Euskara فارسی Suomi Français Gaeilge Galego עברית Hrvatski Magyar Հայերեն Bahasa Indonesia Íslenska Italiano 日本語 ქართული Қазақша ភាសាខ្មែរ 한국어 Кыргызча Lietuvių Latviešu Māori (NZ) ဗမာစာ Nederlands Norsk (Nynorsk) Norsk (Bokmål) Polski Português (Brasil) Português (Portugal) Română Pусский සිංහල Slovenčina Slovenščina Shqip Cрпски Svenska ภาษาไทย Türkçe Українська Tiếng Việt 简体字 繁體字 
+Submit ￼ Skip to Content 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Data-driven, human-focused philanthropyâ powered by Google 
+We bring the best of Google to innovative nonprofits that are committed to creating a world that works for everyone. Learn more about our $1 billion commitment 
+￼ 
+Education 
+Using an open-sourced platform to translate books for students 
+More than half of the books published in India are written in Hindi and English. But in a country with dozens of local languages, this means many students donât have access to books in their native tongue. Google.org is supporting Pratham Books to rapidly expand the reach of their translation platform StoryWeaver. Learn more about Pratham Books 
+￼ 
+Economic Opportunity 
+Improving Americaâs workforce development system through digital tools 
+Millions of job seekers rely on Americaâs publicly funded workforce system, but the process is often confusing and disheartening. Google.org is supporting Code for America to build technologies that help job seekers easily access the resources they need. Learn more about Code for America 
+￼ 
+Inclusion 
+Using data to uncover racial injustice 
+Shifting a nationâs mindset means collecting and surfacing lost data: the thousands of lost records and stories of racial injustice. Google.org is working with Bryan Stevensonâs Equal Justice Initiative, which is building a national memorial to lynching victims and a museum that examines African American history. Learn more about Equal Justice Initiative 
+
+￼ 
+Our $1 billion commitment to create more opportunity for everyone 
+Sundar Pichai, our CEO, recently announced a number of ways Google is working to create more opportunity for everyone, including a 5-year goal to award $1 billion in grants and contribute 1 million employee volunteer hours. read story 
+
+Our areas of focus 
+We want a world that works for everyoneâand we believe technology and innovation can move the needle in three key areas. 
+￼ 
+Creating richer learning experiences for students View our work in Education 
+￼ 
+Connecting people to jobs and opportunity for economic mobility View our work in economic opportunity 
+￼ 
+Fighting systemic racial bias to advance inclusion and justice for all View our work in inclusion 
+
+The latest from Google.org 
+{[article.published_at|date:'longDate']} 
+{[article.title]} 
+Read more on The Keyword 
+
+1 "Trends in Indian Publishing: An Overview of the current trends and opportunities in the Indian Publishing Market" 
+2 "The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya" 
+Follow Us 
+Google.org 
+Home 
+Our Work 
+Areas of focus 
+Economic Opportunity 
+Education 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Other Google initiatives 
+Google for Nonprofits 
+Google for Education 
+Environment 
+Privacy 
+Terms 
+Help 
+￼ Skip to Content 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Data-driven, human-focused philanthropyâ powered by Google 
+We bring the best of Google to innovative nonprofits that are committed to creating a world that works for everyone. Learn more about our $1 billion commitment 
+￼ 
+Education 
+Using an open-sourced platform to translate books for students 
+More than half of the books published in India are written in Hindi and English. But in a country with dozens of local languages, this means many students donât have access to books in their native tongue. Google.org is supporting Pratham Books to rapidly expand the reach of their translation platform StoryWeaver. Learn more about Pratham Books 
+￼ 
+Economic Opportunity 
+Improving Americaâs workforce development system through digital tools 
+Millions of job seekers rely on Americaâs publicly funded workforce system, but the process is often confusing and disheartening. Google.org is supporting Code for America to build technologies that help job seekers easily access the resources they need. Learn more about Code for America 
+￼ 
+Inclusion 
+Using data to uncover racial injustice 
+Shifting a nationâs mindset means collecting and surfacing lost data: the thousands of lost records and stories of racial injustice. Google.org is working with Bryan Stevensonâs Equal Justice Initiative, which is building a national memorial to lynching victims and a museum that examines African American history. Learn more about Equal Justice Initiative 
+
+￼ 
+Our $1 billion commitment to create more opportunity for everyone 
+Sundar Pichai, our CEO, recently announced a number of ways Google is working to create more opportunity for everyone, including a 5-year goal to award $1 billion in grants and contribute 1 million employee volunteer hours. read story 
+
+Our areas of focus 
+We want a world that works for everyoneâand we believe technology and innovation can move the needle in three key areas. 
+￼ 
+Creating richer learning experiences for students View our work in Education 
+￼ 
+Connecting people to jobs and opportunity for economic mobility View our work in economic opportunity 
+￼ 
+Fighting systemic racial bias to advance inclusion and justice for all View our work in inclusion 
+
+The latest from Google.org 
+{[article.published_at|date:'longDate']} 
+{[article.title]} 
+Read more on The Keyword 
+
+1 "Trends in Indian Publishing: An Overview of the current trends and opportunities in the Indian Publishing Market" 
+2 "The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya" 
+Follow Us 
+Google.org 
+Home 
+Our Work 
+Areas of focus 
+Economic Opportunity 
+Education 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Other Google initiatives 
+Google for Nonprofits 
+Google for Education 
+Environment 
+Privacy 
+Terms 
+Help 
+￼ Skip to Content 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Data-driven, human-focused philanthropyâ powered by Google 
+We bring the best of Google to innovative nonprofits that are committed to creating a world that works for everyone. Learn more about our $1 billion commitment 
+￼ 
+Education 
+Using an open-sourced platform to translate books for students 
+More than half of the books published in India are written in Hindi and English. But in a country with dozens of local languages, this means many students donât have access to books in their native tongue. Google.org is supporting Pratham Books to rapidly expand the reach of their translation platform StoryWeaver. Learn more about Pratham Books 
+￼ 
+Economic Opportunity 
+Improving Americaâs workforce development system through digital tools 
+Millions of job seekers rely on Americaâs publicly funded workforce system, but the process is often confusing and disheartening. Google.org is supporting Code for America to build technologies that help job seekers easily access the resources they need. Learn more about Code for America 
+￼ 
+Inclusion 
+Using data to uncover racial injustice 
+Shifting a nationâs mindset means collecting and surfacing lost data: the thousands of lost records and stories of racial injustice. Google.org is working with Bryan Stevensonâs Equal Justice Initiative, which is building a national memorial to lynching victims and a museum that examines African American history. Learn more about Equal Justice Initiative 
+
+￼ 
+Our $1 billion commitment to create more opportunity for everyone 
+Sundar Pichai, our CEO, recently announced a number of ways Google is working to create more opportunity for everyone, including a 5-year goal to award $1 billion in grants and contribute 1 million employee volunteer hours. read story 
+
+Our areas of focus 
+We want a world that works for everyoneâand we believe technology and innovation can move the needle in three key areas. 
+￼ 
+Creating richer learning experiences for students View our work in Education 
+￼ 
+Connecting people to jobs and opportunity for economic mobility View our work in economic opportunity 
+￼ 
+Fighting systemic racial bias to advance inclusion and justice for all View our work in inclusion 
+
+The latest from Google.org 
+{[article.published_at|date:'longDate']} 
+{[article.title]} 
+Read more on The Keyword 
+
+1 "Trends in Indian Publishing: An Overview of the current trends and opportunities in the Indian Publishing Market" 
+2 "The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya" 
+Follow Us 
+Google.org 
+Home 
+Our Work 
+Areas of focus 
+Economic Opportunity 
+Education 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Other Google initiatives 
+Google for Nonprofits 
+Google for Education 
+Environment 
+Privacy 
+Terms 
+Help 
+￼ Skip to Content 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Home 
+Our Work 
+Education 
+Economic Opportunity 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Data-driven, human-focused philanthropyâ powered by Google 
+We bring the best of Google to innovative nonprofits that are committed to creating a world that works for everyone. Learn more about our $1 billion commitment 
+￼ 
+Education 
+Using an open-sourced platform to translate books for students 
+More than half of the books published in India are written in Hindi and English. But in a country with dozens of local languages, this means many students donât have access to books in their native tongue. Google.org is supporting Pratham Books to rapidly expand the reach of their translation platform StoryWeaver. Learn more about Pratham Books 
+￼ 
+Economic Opportunity 
+Improving Americaâs workforce development system through digital tools 
+Millions of job seekers rely on Americaâs publicly funded workforce system, but the process is often confusing and disheartening. Google.org is supporting Code for America to build technologies that help job seekers easily access the resources they need. Learn more about Code for America 
+￼ 
+Inclusion 
+Using data to uncover racial injustice 
+Shifting a nationâs mindset means collecting and surfacing lost data: the thousands of lost records and stories of racial injustice. Google.org is working with Bryan Stevensonâs Equal Justice Initiative, which is building a national memorial to lynching victims and a museum that examines African American history. Learn more about Equal Justice Initiative 
+
+￼ 
+Our $1 billion commitment to create more opportunity for everyone 
+Sundar Pichai, our CEO, recently announced a number of ways Google is working to create more opportunity for everyone, including a 5-year goal to award $1 billion in grants and contribute 1 million employee volunteer hours. read story 
+
+Our areas of focus 
+We want a world that works for everyoneâand we believe technology and innovation can move the needle in three key areas. 
+￼ 
+Creating richer learning experiences for students View our work in Education 
+￼ 
+Connecting people to jobs and opportunity for economic mobility View our work in economic opportunity 
+￼ 
+Fighting systemic racial bias to advance inclusion and justice for all View our work in inclusion 
+
+The latest from Google.org 
+{[article.published_at|date:'longDate']} 
+{[article.title]} 
+Read more on The Keyword 
+
+1 "Trends in Indian Publishing: An Overview of the current trends and opportunities in the Indian Publishing Market" 
+2 "The short-term impact of unconditional cash transfers to the poor: Experimental evidence from Kenya" 
+Follow Us 
+Google.org 
+Home 
+Our Work 
+Areas of focus 
+Economic Opportunity 
+Education 
+Inclusion 
+Crisis Response 
+Impact Challenge 
+Other Google initiatives 
+Google for Nonprofits 
+Google for Education 
+Environment 
+Privacy 
+Terms 
+Help 
+Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms 연합뉴스 바로가기 주제별캐스트 바로가기 타임스퀘어 바로가기 쇼핑캐스트 바로가기 로그인 바로가기 
+네이버 
+네이버를 시작페이지로 쥬니어네이버 해피빈 
+검색 
+자동완성 펼치기 검색 한글 입력기 
+시간대와 관심사에 맞춘 컨텍스트 자동완성 도움말 보기 ON선택됨 OFF 
+컨텍스트 자동완성 
+동일한 시간대/연령/남녀별 사용자 그룹의
+관심사에 맞춰 자동완성을 제공합니다. 
+로그인 자세히 
+ON/OFF설정은
+해당 기기(브라우저)에 저장됩니다. 
+자세히 컨텍스트 자동완성 레이어 닫기 
+도움말신고검색어저장 켜기자동완성 끄기 기능을 다시 켤 때는 자동완성 펼치기을 클릭하세요 
+현재 자동완성 기능을 사용하고 계십니다. 
+도움말신고검색어저장 켜기자동완성 끄기 기능을 다시 켤 때는 자동완성 펼치기을 클릭하세요 
+자동완성 기능이 활성화되었습니다. 
+도움말신고검색어저장 켜기자동완성 끄기 기능을 다시 켤 때는 자동완성 펼치기을 클릭하세요 
+자동완성 기능이 꺼져 있습니다. 
+도움말신고검색어저장 켜기자동완성 켜기 
+최근검색어
+내 검색어 
+내 검색어 등록@txt@@date@.삭제@in_txt@ 
+최근검색어 내역이 없습니다. 
+검색어 저장 기능이 꺼져 있습니다. 
+내 검색어 해제@txt@ 
+설정된 내 검색어가 없습니다.
+최근검색어에서 내 검색어 등록를 선택하여 자주 찾는 검색어를
+내 검색어로 저장해 보세요. 
+검색어 저장 기능이 꺼져 있습니다. 
+알림공용 PC에서는 개인정보 보호를 위하여 반드시 로그아웃을 해 주세요. 
+기록 삭제검색어저장 끄기자동완성 끄기 
+기록 전체 삭제완료 
+기록 전체 삭제검색어저장 끄기자동완성 끄기 기능을 다시 켤 때는 자동완성 펼치기을 클릭하세요 
+내 검색어는 최대 10개 까지 저장할 수 있습니다.
+추가하시려면 기존 내 검색어를 지워주세요. 닫기 
+
+자세히보기 
+메일 
+카페 
+블로그 
+지식인 
+쇼핑 
+네이버페이 
+네이버TV 
+사전
+뉴스
+증권(금융)
+부동산
+지도
+영화
+뮤직
+책
+만화 / 웹툰 
+더보기 
+급상승 검색어 검색어
+1 오연서 
+2 푸드올로지 반갑데이 
+3 안재현 오연서 
+4 더페이스샵 세일 
+5 구혜선 안재현 문자 
+6 최성해 
+7 김소희 
+8 김슬기 
+9 티르티르 
+10 송유빈 김소희 
+11 최민수 
+12 디스패치 
+13 오퀴즈 천만원이벤트 
+14 모유유산균 
+15 2019 9월 모의고사 등급컷 
+16 정경심 교수 
+17 23 아이덴티티 
+18 동양대학교 
+19 리니지2m 
+20 포렌식 
+급상승 검색어
+DataLab.급상승 트래킹 
+1~10위 11~20위 
+급상승 검색어 1~10위
+1 오연서 데이터랩 그래프 보기 
+2 푸드올로지 반갑데이 데이터랩 그래프 보기 
+3 안재현 오연서 데이터랩 그래프 보기 
+4 더페이스샵 세일 데이터랩 그래프 보기 
+5 구혜선 안재현 문자 데이터랩 그래프 보기 
+6 최성해 데이터랩 그래프 보기 
+7 김소희 데이터랩 그래프 보기 
+8 김슬기 데이터랩 그래프 보기 
+9 티르티르 데이터랩 그래프 보기 
+10 송유빈 김소희 데이터랩 그래프 보기 
+11 최민수 데이터랩 그래프 보기 
+12 디스패치 데이터랩 그래프 보기 
+13 오퀴즈 천만원이벤트 데이터랩 그래프 보기 
+14 모유유산균 데이터랩 그래프 보기 
+15 2019 9월 모의고사 등급컷 데이터랩 그래프 보기 
+16 정경심 교수 데이터랩 그래프 보기 
+17 23 아이덴티티 데이터랩 그래프 보기 
+18 동양대학교 데이터랩 그래프 보기 
+19 리니지2m 데이터랩 그래프 보기 
+20 포렌식 데이터랩 그래프 보기 
+2019.09.05. 10:22:00 기준 도움말 
+연합뉴스 
+태풍 '링링' 우리나라 전역에 영향 예상…정부, 대처상황 점검
+동양대 총장 "조국 부인 '표창장 위임했다고 말해달라' 부탁"
+정경두 "이웃과 갈등 조장해 이익추구"…日에 경고
+코스피 상승 출발…한달여만에 장중 2,000선 회복
+내년부터 개인신용평가 등급제→점수제 개편…당국, 전담팀 가동
+'대마 밀반입' CJ 장남 구속영장 청구…내일 실질심사
+당정청 "공정경제 성과 느낄수있도록 하위법령 개정"
+英하원 '브렉시트 3개월 연기' 가결…조기총선 개최는 부결
+국민 63% "대입제도, 정시가 수시보다 바람직"
+"올 추석 선물 평균 구입 예산은 24만원" 
+네이버뉴스 
+연예 
+스포츠 
+경제 
+뉴스스탠드 
+전체 언론사 MY 뉴스 
+이미지형 리스트형 설정 
+이전 페이지 
+다음 페이지 
+언론사 목록 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+￼ 
+구독 해지 기사보기 
+언론사 목록 
+종합/경제 
+방송/통신 
+IT 
+영자지 
+스포츠/연예 
+매거진/전문지 
+지역 
+설정한 언론사가 없습니다.
+언론사 구독 설정에서 MY언론사를 추가하면
+설정한 언론사의 기사들을 네이버 홈에서 바로 보실 수 있습니다. 언론사 추가 
+Sign in 
+Connect with people NAVER Sign in 
+Sign up Forgot Username or Password? 
+타임스퀘어
+09.05.(목)| 도쿄 
+앞의 목록으로 이동 뒤의 목록으로 이동 
+흐림
+23°C
+21°/ 26°
+21°/ 28° 흐림 내일 
+23°/ 31° 구름많음(낮) 모레 
+주제형 캐스트 
+관심 주제 선택 
+리빙 
+푸드 
+스포츠 
+자동차 
+패션뷰티 
+부모i 
+건강 
+웹툰 
+게임 
+TV연예 
+뮤직 
+영화 
+책문화 
+함께N 
+여행+ 
+디자인 
+경제M 
+JOB& 
+과학 
+중국 
+비즈니스 
+FARM 
+스쿨잼 
+공연전시 
+법률 
+동물공감 
+연애·결혼 
+테크 
+감성충전 
+이전 주제 다음 주제 전체 주제 열기 
+관심 주제 설정 전체 주제 목록 닫기 
+관심주제 설정 모바일 관심 주제 가져오기 로그인후 사용 가능합니다 
+취소 확인 초기화 전체선택 모바일 관심 주제 가져오기 로그인후 사용 가능합니다 
+￼ 
+스쿨잼
+이벤트
+곰손의 도전
+스쿨툰
+고민상담
+쨈닥터
+스쿨잼 홈트
+(주)스쿨잼 
+￼ 
+￼ 쨈터뷰 스포츠편 : 댄스 스포츠 선수 김홍인 & 소문정 댄스 스포츠의 가장 큰 매력은 무엇인가요? 
+￼ [곰이로그] 생애 첫 VLOG 도전기 브이로그를 빙자한 먹방... 
+￼ 할 말 없어서 어색하다고? 끊기지 않게 대화하는 방법 맥끊는 '맥커터' 이제 그만! 
+￼ 나만의 소중한 비밀, 주민등록번호! 어떻게 만들어질까? 13자리 숫자 속의 숨겨진 비밀 
+￼ 사극 볼 때 궁금했던 그거, 이름이 뭐지? 굳이 몰라도 되지만... 
+￼ 해외에서 인기 있는 '이 라면들'의 비밀 '마라'의 뒤를 이을 대세 예약? 
+￼ '어배밝색?' 기본만 해도 반은 가는 PPT 만드는 법 똥손에서 금손으로 거듭나자! 
+￼ 낭비 없이 하루만에 8억 원을 쓸 수 있을까? 8억 원 쓰는게 낭비 아님 -.-? 
+￼ 뼈만 남아 앙상... 스리랑카, 불교 축제서 학대당한 코끼리 동원해 논란 함께하는 동물 뉴스 YTN 
+￼ 연재 엔트리로 만든 공익 광고 캠페인 살펴보기 소프트웨어야 놀자 엔트리 
+￼ 책 증정 이벤트 초등 영어의 시작은 '영리한 초등영어 시리즈'와 함께! 총 21명 증정 신청하러 가기! 
+￼ 연재 법을 제정하고 정부를 견제하는 국민의 대표 국회의원 어떻게 되었을까? 캠퍼스멘토 
+￼ 교육의 목표는 민주'국민'이 아니라 민주'시민'일까? 국민과 시민, 어떤 차이인가요? 
+￼ ëìì 8개 이상 해당되면 무기력 증후군일 수도 있어요! 썰밤 
+쇼핑캐스트 : https://castbox.shopping.naver.com/shopbox/main.nhn? 
+￼ 
+소상공인 온라인마켓 작은가게 오래가게 입소문난 유명한
+가게를 만나보세요! 
+￼ 
+미국 칸아카데미 한국 교육과정 매핑 미국의 학년별 수학강의를
+국내 과정으로 확인해보세요 
+공지사항 이제, 구독 중인 뉴스는 네이버 MY뉴스에서 볼 수 있어요. 
+서비스 전체보기 
+프로젝트 꽃 바로가기 
+프로젝트 꽃 
+웨일 브라우저
+다운받기 
+네이버웨일 
+Creators 
+크리에이터 
+스몰비즈니스 
+Partners 
+비즈니스 · 광고 
+스토어 개설 
+지역업체 등록 
+Developers 
+네이버 개발자센터 
+오픈 API 
+오픈소스 
+네이버 D2 
+네이버 랩스 
+네이버 정책 및 약관 
+회사소개 
+인재채용 
+제휴제안 
+이용약관 
+개인정보처리방침 
+청소년보호정책 
+네이버 정책 
+고객센터 ⓒ NAVER Corp. 404. That’s an error. 
+The requested URL / was not found on this server. That’s all we know. Search Images Maps Play YouTube News Gmail Drive More »
+Web History | Settings | Sign in
+
+
+￼
+
+
+ 
+
+
+
+Advanced searchLanguage tools
+
+
+
+Advertising ProgramsBusiness SolutionsAbout Google
+© 2019 - Privacy - Terms 

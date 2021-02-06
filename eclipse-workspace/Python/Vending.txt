@@ -1,0 +1,1 @@
+{'Cola_Price': 10, 'Cola_Count': 19, 'Sprite_Price': 8, 'Sprite_Count': 29, 'Pepper_Price': 8, 'Pepper_Count': 1, 'Monster_Price': 4, 'Monster_Count': 13}

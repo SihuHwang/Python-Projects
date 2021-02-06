@@ -1,0 +1,54 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Game\com.python.pydev.analysis\v2_indexcache
+Game|1578017462929886000|C:\eclipse-workspace\Game\Game.py
+gAME2|1574385230418398000|C:\eclipse-workspace\Game\gAME2.py
+Shooting_Planes_Game|1559699543840755000|C:\eclipse-workspace\Game\Shooting_Planes_Game.py
+turtlegame|1573354735863731000|C:\eclipse-workspace\Game\turtlegame.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+1=C:\eclipse-workspace\Game\Game.py
+2=Game
+7=MainView
+5=C:\eclipse-workspace\Game\Shooting_Planes_Game.py
+3=C:\eclipse-workspace\Game\turtlegame.py
+6=Shooting_Planes_Game
+4=turtlegame
+-- END DICTIONARY
+-- START TREE 1
+26
+app|1|app!1^101#5*19@
+bug|2|bugnumber!3^24#1*35@bugs!3^25#1*35@
+c|2|c!5^32#5*51@c!3^28#5*35@
+col|2|colors!5^26#1*51@colors!3^22#1*35@
+d|1|d!3^106#9*35@
+dec|1|decreasespeed!3^68#5*34@
+inc|1|increasespeed!3^64#5*34@
+mai|2|MainView!1^14#7*17@main!1^102#5*19@
+mov|2|move_right!5^53#5*50@move_left!5^64#5*50@
+myb|2|myboundry!3^11#1*35@myboundry!5^15#1*51@
+p|1|p!5^46#1*51@
+pla|2|planes!5^29#1*51@planesnumber!5^28#1*51@
+res|3|resource_path!1^93#5*18@reset!5^71#5*50@reset!3^72#5*34@
+s|2|s!5^31#5*51@s!3^27#5*35@
+sco|2|score!3^56#1*35@scorestring!3^121#13*35@
+scr|2|screen!3^6#1*35@Screen!5^10#1*51@
+sha|2|shapes!3^21#1*35@shapes!5^25#1*51@
+spe|1|speed!3^54#1*35@
+t1|1|t1!3^43#1*35@
+tur|3|turn_left!3^58#5*34@turn_right!3^61#5*34@turtlesize!3^42#1*35@
+x|1|x!3^89#5*35@
+x1|2|x1!3^100#9*35@x1!5^84#9*51@
+x2|2|x2!3^103#9*35@x2!5^87#9*51@
+y|1|y!3^90#5*35@
+y1|2|y1!5^85#9*51@y1!3^101#9*35@
+y2|2|y2!3^104#9*35@y2!5^88#9*51@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!7&1^17#9*18@
+sav|1|Savefile!7&1^80#9*18@
+set|1|setupUI!7&1^21#9*18@
+sta|1|start!7&1^34#9*18@
+-- END TREE

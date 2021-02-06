@@ -1,0 +1,136 @@
+import turtle as t
+import random
+import math
+
+
+screen = t.Screen()
+screen.bgcolor('cyan')
+screen.tracer(2)
+
+#boundry
+myboundry = t.Turtle()
+myboundry.penup()
+myboundry.setposition(-400, 400)
+myboundry.pendown()
+myboundry.pensize(3)
+for side in range(4):
+    myboundry.forward(800)
+    myboundry.right(90)
+myboundry.hideturtle()
+
+shapes = ['arrow', 'blank', 'circle','classic','square', 'triangle']
+colors = ['red', 'blue','purple','white','black','pink','yellow','green','orange','brown']
+
+bugnumber = 25
+bugs = []
+for count in range(bugnumber):
+    s= random.randint(0,5)
+    c = random.randint(0,9)
+    
+    
+    bugs.append(t.Turtle())
+    bugs[count].shape(shapes[s])
+    bugs[count].color(colors[c])
+    bugs[count].penup()
+    bugs[count].setposition(random.randint(-400,400) , random.randint(-400,400))
+    bugs[count].right(random.randint(0,360))
+    
+    
+    
+                           
+#tutle creation
+turtlesize = 2
+t1 = t.Turtle()
+t1.shape('turtle')
+t1.color('blue')
+t1.turtlesize(turtlesize,turtlesize)
+t1.penup()
+
+
+
+
+
+#turtle speed
+speed = 1
+
+score = 0
+
+def turn_left():
+    t1.left(30)
+
+def turn_right():
+    t1.right(30)
+
+def increasespeed():
+    global speed
+    speed = speed + 1
+    
+def decreasespeed():
+    global speed
+    speed = speed - 1
+
+def reset():
+    print('r')
+    t1.setposition(0,0)
+
+
+
+
+screen.listen()
+    screen.onkeypress(turn_left, 'a') 
+    t1.forward(speed)   
+    
+    x = t1.xcor()
+    y = t1.ycor()
+    if x < -400 or  x > 400:
+        t1.right(180)
+    
+    
+    if y < -400 or  y > 400:
+        t1.right(180)
+    
+    for count in range(bugnumber):    
+        bugs[count].forward(5)
+        x1 = t1.xcor()
+        y1 = t1.ycor()
+        
+        x2 = bugs[count].xcor()
+        y2 = bugs[count].ycor()
+        
+        d = math.sqrt(pow((x1 - x2),2) + pow((y1 - y2),2))
+        
+        if d < (turtlesize * 10 ):
+            bugs[count].setposition(random.randint(-400,400) , random.randint(-400,400))
+            score = score + 1
+            c = random.randint(0,7)
+            s= random.randint(0,5)
+            bugs[count].shape(shapes[s])
+            bugs[count].color(colors[c])
+            
+            
+            myboundry.undo()
+            myboundry.penup()
+            myboundry.hideturtle()
+            myboundry.setposition(-390,410)
+            scorestring = 'Score: %s' % score
+            myboundry.write(scorestring,False , align = 'left' , font=('Arial',14,'bold'))
+                    
+            if score %10 == 0:
+                turtlesize = turtlesize + 1
+                if turtlesize > 10:
+                    turtlesize = 10
+                t1.turtlesize(turtlesize,turtlesize)
+                
+                
+        
+        if x2 < -400 or  x2 > 400:
+            bugs[count].right(180)
+    
+    
+        if y2 < -400 or  y2 > 400:
+            bugs[count].right(180)
+
+            
+
+
+t.mainloop()

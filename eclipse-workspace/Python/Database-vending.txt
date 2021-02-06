@@ -1,0 +1,1 @@
+{'cola_price':10, 'cola_count':5, 'dew_price':8, 'dew_count':5}

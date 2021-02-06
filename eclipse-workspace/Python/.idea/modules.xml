@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/BoiseBee/.idea/BoiseBee.iml" filepath="$USER_HOME$/BoiseBee/.idea/BoiseBee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../KoreanSchool/.idea/KoreanSchool.iml" filepath="$PROJECT_DIR$/../KoreanSchool/.idea/KoreanSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
+    </modules>
+  </component>
+</project>
