@@ -21,7 +21,6 @@ while True:
         webbrowser.get("C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s").open_new(
         "https://zoom.us")
 
-        print('yesss')
 
     break
 

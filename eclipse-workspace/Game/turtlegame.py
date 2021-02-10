@@ -123,8 +123,8 @@ while True:
                     
             if score %10 == 0:
                 turtlesize = turtlesize + 1
-                if turtlesize > 10:
-                    turtlesize = 10
+                # if turtlesize > 10:
+                #     turtlesize = 10
                 t1.turtlesize(turtlesize,turtlesize)
                 
                 
