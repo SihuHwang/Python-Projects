@@ -1,6 +1,5 @@
-i = 0
-while i < 9:
-  i += 1
-  if i == 3:
-    continue
-  print(i)
+x = 1
+
+for i in range(5):
+  x += 1
+  print(x)

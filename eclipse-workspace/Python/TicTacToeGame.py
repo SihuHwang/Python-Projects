@@ -49,7 +49,7 @@ class Window(QMainWindow):
             # x and y co-ordinate
         x = 90
         y = 90
-        print(self.push_list)
+
         # traversing through push button list
         for i in range(3):
             for j in range(3):

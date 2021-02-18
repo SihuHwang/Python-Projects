@@ -16,6 +16,7 @@ class MainView(QMainWindow):
     #__slots__ = ()
     def __init__(self):
         super().__init__()
+
         self.setupUI()
 
     def setupUI(self):

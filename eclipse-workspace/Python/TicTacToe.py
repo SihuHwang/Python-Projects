@@ -3,6 +3,7 @@ from PyQt5 import QtCore, QtGui
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 
+
 import sys
 
 
@@ -13,11 +14,14 @@ class Window(QMainWindow):
         super().__init__()
 
         # setting title
-        self.setWindowTitle("Python ")
-
+        self.setWindowTitle('Tic Tac Toe Game')
+        self.setWindowIcon(QtGui.QIcon('1_9LBDOx6gG4mTuPGPDp888w.png'))
         # setting geometry
-        self.setGeometry(100, 100,
-                         300, 500)
+        qtRectangle = self.frameGeometry()
+        centerPoint = QDesktopWidget().availableGeometry().center()
+        qtRectangle.moveCenter(centerPoint)
+        self.move(qtRectangle.topLeft())
+        self.resize(300, 500)
 
         # calling method
         self.UiComponents()
@@ -36,7 +40,7 @@ class Window(QMainWindow):
         self.times = 0
 
         # creating a push button list
-        self.push_list = []
+        self.push = []
 
         # creating 2d list
         for _ in range(3):
@@ -44,25 +48,25 @@ class Window(QMainWindow):
             for _ in range(3):
                 temp.append((QPushButton(self)))
                 # adding 3 push button in single row
-            self.push_list.append(temp)
+            self.push.append(temp)
+
 
             # x and y co-ordinate
         x = 90
         y = 90
-        print(self.push_list)
         # traversing through push button list
         for i in range(3):
             for j in range(3):
                 # setting geometry to the button
-                self.push_list[i][j].setGeometry(x * i + 20,
+                self.push[i][j].setGeometry(x * i + 20,
                                                  y * j + 20,
                                                  80, 80)
 
                 # setting font to the button
-                self.push_list[i][j].setFont(QFont(QFont('Times', 17)))
+                self.push[i][j].setFont(QFont(QFont('Times', 17)))
 
                 # adding action
-                self.push_list[i][j].clicked.connect(self.action_called)
+                self.push[i][j].clicked.connect(self.start_game)
 
                 # creating label to tel the score
         self.label = QLabel(self)
@@ -73,7 +77,7 @@ class Window(QMainWindow):
         # setting style sheet to the label
         self.label.setStyleSheet("QLabel"
                                  "{"
-                                 "border : 3px solid black;"
+                                 "border : 3px solid lime;"
                                  "background : white;"
                                  "}")
 
@@ -90,11 +94,11 @@ class Window(QMainWindow):
         reset_game.setGeometry(50, 380, 200, 50)
 
         # adding action action to the reset push button
-        reset_game.clicked.connect(self.reset_game_action)
+        reset_game.clicked.connect(self.reset_game)
 
         # method called by reset button
 
-    def reset_game_action(self):
+    def reset_game(self):
 
         # resetting values
         self.turn = 0
@@ -104,7 +108,7 @@ class Window(QMainWindow):
         self.label.setText("")
 
         # traversing push list
-        for buttons in self.push_list:
+        for buttons in self.push:
             for button in buttons:
                 # making all the button enabled
                 button.setEnabled(True)
@@ -113,7 +117,7 @@ class Window(QMainWindow):
 
                 # action called by the push buttons
 
-    def action_called(self):
+    def start_game(self):
 
         self.times += 1
 
@@ -132,7 +136,7 @@ class Window(QMainWindow):
             self.turn = 0
 
         # call the winner checker method
-        win = self.who_wins()
+        win = self.winner()
 
         # text
         text = ""
@@ -148,7 +152,7 @@ class Window(QMainWindow):
                 text = "X Won"
 
             # disabling all the buttons
-            for buttons in self.push_list:
+            for buttons in self.push:
                 for push in buttons:
                     push.setEnabled(False)
 
@@ -162,32 +166,32 @@ class Window(QMainWindow):
 
         # method to check who wins
 
-    def who_wins(self):
+    def winner(self):
 
         # checking if any row crossed
         for i in range(3):
-            if self.push_list[0][i].text() == self.push_list[1][i].text() \
-                    and self.push_list[0][i].text() == self.push_list[2][i].text() \
-                    and self.push_list[0][i].text() != "":
+            if self.push[0][i].text() == self.push[1][i].text() \
+                    and self.push[0][i].text() == self.push[2][i].text() \
+                    and self.push[0][i].text() != "":
                 return True
 
         # checking if any column crossed
         for i in range(3):
-            if self.push_list[i][0].text() == self.push_list[i][1].text() \
-                    and self.push_list[i][0].text() == self.push_list[i][2].text() \
-                    and self.push_list[i][0].text() != "":
+            if self.push[i][0].text() == self.push[i][1].text() \
+                    and self.push[i][0].text() == self.push[i][2].text() \
+                    and self.push[i][0].text() != "":
                 return True
 
         # checking if diagonal crossed
-        if self.push_list[0][0].text() == self.push_list[1][1].text() \
-                and self.push_list[0][0].text() == self.push_list[2][2].text() \
-                and self.push_list[0][0].text() != "":
+        if self.push[0][0].text() == self.push[1][1].text() \
+                and self.push[0][0].text() == self.push[2][2].text() \
+                and self.push[0][0].text() != "":
             return True
 
         # if other diagonal is crossed
-        if self.push_list[0][2].text() == self.push_list[1][1].text() \
-                and self.push_list[1][1].text() == self.push_list[2][0].text() \
-                and self.push_list[0][2].text() != "":
+        if self.push[0][2].text() == self.push[1][1].text() \
+                and self.push[1][1].text() == self.push[2][0].text() \
+                and self.push[0][2].text() != "":
             return True
 
         # if nothing is crossed

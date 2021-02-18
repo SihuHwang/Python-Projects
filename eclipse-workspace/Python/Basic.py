@@ -25,9 +25,7 @@ class MainView(QMainWindow):
         #self.setWindowIcon(QtGui.QPixmap(resource_path("./images/bbok.png")))
         self.resize(917,846) 
         self.show() 
-#파일 경로
-        
-#pyinstaller로 원파일로 압축할때 경로 필요함
+
 
 def resource_path(relative_path):
 

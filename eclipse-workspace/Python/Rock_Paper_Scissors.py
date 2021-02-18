@@ -2,11 +2,16 @@ import random as r
 import time as t
 from getpass import getpass
 import sys
+from os import system, name
+
+username = input('Enter your name: ')
 
 def RPS_Game():
     '''This is a program for the game of rock paper scissors and can be played
     singleplayer or against the computer
     '''
+    results = []
+    print('Welcome', username +'!')
     game = input('Two player game or CPU?: ')
     List = ['Rock', 'Paper', 'Scissors']  # List of possibilities for the CPU
     Status = True
@@ -21,15 +26,16 @@ def RPS_Game():
             for i in range(3):
                 sys.stdout.write('.')
                 t.sleep(.5)
-            print('\n Welcome to Rock paper scissors!')
+            system('cls')
             while Status:
-                player = input('Choose Rock, Paper, or scissors: ')
+                player = input('Choose Rock, Paper, or Scissors: ')
                 cpu = r.choice(List)  # Picks a random sign from the list
                 # Shows who won
                 if player.lower() == 'rock' and cpu.lower() == 'paper':
                     Status = False
                     print('Cpu chose paper!')
                     print('You lost!')
+                    results.append('You lost!')
                     # Asks if the user wants to play again
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
@@ -37,88 +43,132 @@ def RPS_Game():
                         RPS_Game()
                     else:
                         # if the user does not want to, the program terminates
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'rock' and cpu.lower() == 'scissors':
                     Status = False
                     print('Cpu chose scissors!')
                     print('You win!')
+                    results.append('You won!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'rock' and cpu.lower() == 'rock':
                     Status = False
                     print('Cpu chose rock!')
                     print("It's a tie!")
+                    results.append('It was a tie!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'paper' and cpu.lower() == 'paper':
                     Status = False
                     print('Cpu chose paper!')
                     print("It's a tie!")
+                    results.append('It was a tie!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'paper' and cpu.lower() == 'scissors':
                     Status = False
                     print('Cpu chose scissors!')
                     print('You lost!')
+                    results.append('You lost!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'paper' and cpu.lower() == 'rock':
                     Status = False
                     print('Cpu chose rock!')
                     print('You win!')
+                    results.append('You won!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'scissors' and cpu.lower() == 'paper':
                     Status = False
                     print('Cpu chose paper!')
                     print("You win!")
+                    results.append('You won!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'scissors' and cpu.lower() == 'scissors':
                     Status = False
                     print('Cpu chose scissors!')
                     print("It's a tie!")
+                    results.append('It was a tie!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 elif player.lower() == 'scissors' and cpu.lower() == 'rock':
                     Status = False
                     print('Cpu chose rock!')
                     print('You lost!')
+                    results.append('You lost!')
                     again = input('Do you want to play again?: ')
                     if again.lower() == 'yes':
                         RPS_Game()
                     else:
-                        print('Thank you for playing!')
-                        sys.exit()
+                        ask = input('Do you want a list of your results? ')
+                        if ask.lower() == 'yes':
+                            print(results)
+                        else:
+                            print('Thank you for playing!')
+                            sys.exit()
                 else:
                     Status = True
                     print('Something went wrong, Please try again!')
@@ -128,7 +178,8 @@ def RPS_Game():
             for i in range(3):
                 sys.stdout.write('.')
                 t.sleep(.5)
-            print('\n Welcome to Rock paper scissors!')
+            system('cls')
+            print('Welcome to Rock paper scissors!')
             player1 = getpass('Player 1: Choose Rock, Paper, or Scissors: ')
             player2 = getpass('Player 2: Choose Rock, Paper or Scissors: ')
             while Status:
