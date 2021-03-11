@@ -2,8 +2,6 @@ from PyQt5.QtWidgets import *
 from PyQt5 import QtCore, QtGui
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
-
-
 import sys
 
 
@@ -92,6 +90,7 @@ class Window(QMainWindow):
 
         # setting geometry
         reset_game.setGeometry(50, 380, 200, 50)
+
 
         # adding action action to the reset push button
         reset_game.clicked.connect(self.reset_game)
